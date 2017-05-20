@@ -1,0 +1,6 @@
+framework module SideSwitchController {
+  umbrella header "SideSwitchController-umbrella.h"
+
+  export *
+  module * { export * }
+}
